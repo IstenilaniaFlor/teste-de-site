@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(233, 110, 176);
+    text-align: center;
+    border: dashed;
+}
+mark{
+    background-color: rgb(255, 160, 239);
+}
+div{
+    justify-content: center;
+}
